@@ -17,7 +17,7 @@
 ***Video Demonstration***
 
 <a href="https://www.youtube.com/watch?v=m8i3vgwMH3k"><img src="./video.png" 
-alt="Video Demonstration" width="200" height="200" border="10" /></a>
+alt="Video Demonstration" width="200" height="150" border="10" /></a>
 
 -----------------------------------------------------------------------------------------------------------------------------
 
